@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amarpal Matharu
+# 👋 Hi, I'm Amarpal Singh Matharu
 
 💻 Frontend Developer | WordPress Developer | Freelance Web Developer  
 🎨 I build clean, responsive, and accessible websites with HTML, CSS, JS, WordPress (ACF), and more.
